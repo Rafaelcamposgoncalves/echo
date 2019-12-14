@@ -1,0 +1,31 @@
+{
+  "name": "echo",
+  "version": "1.0.0",
+  "description": "Turn console.log into echo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafaelcamposgoncalves/echo.git"
+  },
+  "keywords": [
+    "echo",
+    "'console.log",
+    "into",
+    "echo'",
+    "'echo",
+    "no",
+    "javascript'",
+    "'echo",
+    "no",
+    "js'"
+  ],
+  "author": "Rafael Campos Gonçalves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rafaelcamposgoncalves/echo/issues"
+  },
+  "homepage": "https://github.com/Rafaelcamposgoncalves/echo#readme"
+}
